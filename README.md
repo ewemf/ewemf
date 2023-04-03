@@ -1,7 +1,7 @@
 ### Hi there 👋
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Ewellyn and my nickname is "Ewe"!
-<img align="right" width="140" height="140" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmE3MzExYjBiZGVhNTQ1OGQ1N2JmYzUwNzk5NDBjMGRmYjVmNzllZCZjdD1z/XZtTVhwfgY6DxCPsvh/giphy.gif"/>
+<img align="right" width="130" height="130" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmE3MzExYjBiZGVhNTQ1OGQ1N2JmYzUwNzk5NDBjMGRmYjVmNzllZCZjdD1z/XZtTVhwfgY6DxCPsvh/giphy.gif"/>
 
 - 🌱 I’m currently studying Computer Science at college!
 - 😄 Pronouns: She/Her
