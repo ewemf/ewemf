@@ -2,7 +2,7 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Ewellyn and my nickname is "Ewe"!
 
-- 🌱 I’m currently learning Programming
+- 🌱 I’m currently studying Computer Science at college!
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm a Brazilian Native, fluent in English and Professional at Video Editing with After Effects :)
 
