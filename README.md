@@ -4,7 +4,13 @@
 
 - 🌱 I’m currently learning Programming
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I'm a Brazilian Native and fluent in English :)
+- ⚡ Fun fact: I'm a Brazilian Native, fluent in English and Professional at Video Editing with After Effects :)
+
+## &nbsp;Main skills :D
+<img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+
+## &nbsp;My toolbox >.<
+<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" /> <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 
 <p align="left">
 <img width="100" height="100" src="https://user-images.githubusercontent.com/129416755/229489078-d9684501-3362-47da-96e4-6a0c2eac9206.gif">
