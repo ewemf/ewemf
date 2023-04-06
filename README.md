@@ -14,14 +14,14 @@
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" /> <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 
 <p align="center">
-<img width="100" height="100" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZThjY2MxZTEzZThkNWFhZDQwZDVjNTdlYzE1ZGJmNDc3NmE0NjZhZSZjdD1z/FMDuoP9ZefU9Xg4P6j/giphy.gif">
-<img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewemf&layout=compact&langs_count=7&theme=dracula"/>
+<img width="150" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZThjY2MxZTEzZThkNWFhZDQwZDVjNTdlYzE1ZGJmNDc3NmE0NjZhZSZjdD1z/FMDuoP9ZefU9Xg4P6j/giphy.gif">
+<img widht="100" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewemf&show_icons=true&theme=dracula"/>
 </p>
 
 <div>
   <p align="center">
 <a href="https://github.com/ewemf">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ewemf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ewemf&layout=compact&show_icons=true&theme=dracula"/>
 </div>
 <div>
   <p align="center">
