@@ -1,11 +1,10 @@
-### Hi there 👋
-# 👋 Hello! Welcome to my Github profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=25&center=true&vCenter=true&width=1000&lines=HELLO,+WELCOME+TO+MY+GITHUB+PROFILE!+:%29;CHECK+MY+INFORMATIONS+BELOW!!+:%29)](https://git.io/typing-svg)
 ## My name is Ewellyn and my nickname is "Ewe"!
 <img align="right" width="120" height="120" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmE3MzExYjBiZGVhNTQ1OGQ1N2JmYzUwNzk5NDBjMGRmYjVmNzllZCZjdD1z/XZtTVhwfgY6DxCPsvh/giphy.gif"/>
 
-- 🌱 I’m currently studying Computer Science at college!
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I'm a Brazilian Native, fluent in English and Professional at Video Editing with After Effects :) 
+- I’m currently studying Computer Science at college!
+- Pronouns: She/Her
+- Fun fact: I'm a Brazilian Native, fluent in English and Professional at Video Editing with After Effects :) 
 
 ## &nbsp;Main skills :D
 <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /> <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -30,15 +29,14 @@
 <a href="https://www.twitch.tv/itsewellyn"target="_blank"><img height="20px" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
 </div>
 
+  <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ewemf}/count.svg" /></p> 
+<br>
 <div align="center">
 
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-<div align="center">
- <p>Feito com :heart: e JavaScript.</p>
- <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
-</div>
+    </div>
 
 <!--
 
