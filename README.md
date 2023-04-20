@@ -24,9 +24,9 @@
 </div>
 <div>
   <p align="center">
-<a href=mailto:itsewellyn@gmail.com target="_blank"><img height="20px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-<a href="https://www.linkedin.com/in/ewellynmaria/"target="_blank"><img height="20px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-<a href="https://www.twitch.tv/itsewellyn"target="_blank"><img height="20px" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
+<a href=mailto:itsewellyn@gmail.com target="_blank"><img height="25px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://www.linkedin.com/in/ewellynmaria/"target="_blank"><img height="25px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.twitch.tv/itsewellyn"target="_blank"><img height="25px" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
 </div>
 
   <div align="center">
