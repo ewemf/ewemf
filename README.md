@@ -4,7 +4,7 @@
 
 - I’m currently studying Computer Science at college!
 - Pronouns: She/Her
-- Fun fact: I'm a Brazilian Native, fluent in English and Professional at Video Editing with After Effects :) 
+- Fun facts: I'm a Brazilian Native, fluent in English and Professional at Video Editing with After Effects :) 
 
 ## &nbsp;Main skills :D
 <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /> <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
