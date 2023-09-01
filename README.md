@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF6699&height=90&section=header" />
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=25&center=true&vCenter=true&width=1000&lines=HELLO,+WELCOME+TO+MY+GITHUB+PROFILE!+:%29;CHECK+MY+INFORMATIONS+BELOW!!+:%29)](https://git.io/typing-svg)
 ## My name is Ewellyn and my nickname is "Ewe"!
 <img align="right" width="120" height="120" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmE3MzExYjBiZGVhNTQ1OGQ1N2JmYzUwNzk5NDBjMGRmYjVmNzllZCZjdD1z/XZtTVhwfgY6DxCPsvh/giphy.gif"/>
