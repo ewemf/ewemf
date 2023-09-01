@@ -18,7 +18,7 @@
   <div align="center">
     <img height="125" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZThjY2MxZTEzZThkNWFhZDQwZDVjNTdlYzE1ZGJmNDc3NmE0NjZhZSZjdD1z/FMDuoP9ZefU9Xg4P6j/giphy.gif">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ewemf&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FF6699&icon_color=FF6699&include_all_commits=true&count_private=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewemf&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FF6699&icon_color=FF6699"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewemf&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FF6699&icon_color=FF6699&include_all_commits=true&count_private=true""/>
 </div>
 </p>
 
