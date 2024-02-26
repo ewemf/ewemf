@@ -1,10 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#9e318e&height=90&section=header" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=25&center=true&vCenter=true&width=1000&lines=HELLO,+WELCOME+TO+MY+GITHUB+PROFILE!+:%29;CHECK+MY+INFORMATIONS+BELOW!!+:%29)](https://git.io/typing-svg)
-## My name is Ewellyn and my nickname is "Ewe"!
+## About Me:
 <img align="right" width="19%" height="126px" src="https://imgur.com/nfZMb7r.gif"/>
 
-
+- My name's Ewellyn and I'm 19 years old.
 - I’m currently studying Computer Science at college!
 - Pronouns: She/Her
 - Fun facts: I'm a Brazilian Native, fluent in English and Professional at Video Editing with After Effects :) 
