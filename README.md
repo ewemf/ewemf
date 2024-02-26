@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=25&center=true&vCenter=true&width=1000&lines=HELLO,+WELCOME+TO+MY+GITHUB+PROFILE!+:%29;CHECK+MY+INFORMATIONS+BELOW!!+:%29)](https://git.io/typing-svg)
 ## My name is Ewellyn and my nickname is "Ewe"!
-<img align="right" width="120" height="120" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F500392208574182329%2F&psig=AOvVaw0_DO3W2rHIZ2PZdDyyXZNW&ust=1709062901157000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPjt-8rhyYQDFQAAAAAdAAAAABAE"/>
+<img align="right" width="120" height="120" src="https://i.pinimg.com/originals/57/18/5d/57185d2176d7cbaebdb74c00ce1b9ebf.gif"/>
 
 
 
