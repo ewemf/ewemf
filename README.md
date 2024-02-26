@@ -18,7 +18,7 @@
   <div align="center">
     <img height="125" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZThjY2MxZTEzZThkNWFhZDQwZDVjNTdlYzE1ZGJmNDc3NmE0NjZhZSZjdD1z/FMDuoP9ZefU9Xg4P6j/giphy.gif">
   <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=ewemf&show_icons=true&count_private=true&theme=dracula&hide_border=true&title_color=FF6699&icon_color=FF6699&text_color=F0F4F5&bg_color=0d1117" alt="Ewellyn github stats" />
-  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewemf&layout=compact&theme=dracula&hide_border=true&title_color=FF6699&text_color=#FF6699&bg_color=0d1117" />
+  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewemf&layout=compact&hide_border=true&title_color=FF6699&text_color=#FF6699&bg_color=0d1117" />
 </div>
 </div>
 </p>
