@@ -42,4 +42,3 @@
 <div align="center">
 </div>
 <!--![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg) -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#9e318e&height=90&section=footer" />
