@@ -2,8 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=25&center=true&vCenter=true&width=1000&lines=HELLO,+WELCOME+TO+MY+GITHUB+PROFILE!+:%29;CHECK+MY+INFORMATIONS+BELOW!!+:%29)](https://git.io/typing-svg)
 ## My name is Ewellyn and my nickname is "Ewe"!
-<img align="right" width="120" height="120" src="https://i.pinimg.com/originals/57/18/5d/57185d2176d7cbaebdb74c00ce1b9ebf.gif"/>
-
+<img align="right" width="120" height="120" src="https://i.pinimg.com/originals/9c/fb/09/9cfb09f0c029e1f8c938208a7e278d76.gif"/>
 
 
 - I’m currently studying Computer Science at college!
