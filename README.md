@@ -6,7 +6,6 @@
 
 - My name's Ewellyn and I'm 19 years old.
 - I’m currently studying Computer Science at college!
-- Pronouns: She/Her
 - Fun facts: I'm a Brazilian Native, fluent in English and Professional at Video Editing with After Effects :) 
 
 ## &nbsp;Main skills :D
