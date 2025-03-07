@@ -4,7 +4,7 @@
 ## About Me:
 <img align="right" width="19%" height="126px" src="https://imgur.com/nfZMb7r.gif"/>
 
-- My name's Ewellyn and I'm 19 years old.
+- My name's Ewellyn and I'm 20 years old.
 - I’m currently studying Computer Science at college!
 - Fun facts: I'm a Brazilian Native, fluent in English and Professional at Video Editing with After Effects :) 
 
